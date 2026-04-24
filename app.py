@@ -2,7 +2,7 @@
 import pandas as pd
 
 st.set_page_config(page_title="Tableau de bord des réclamations", layout="wide")
-st.title("📊 Tableau de bord des réclamations - Qualité")
+st.title(" Tableau de bord des réclamations - Qualité")
 
 # تحميل الملف مباشرة
 try:
